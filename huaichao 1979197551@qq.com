@@ -1,0 +1,53 @@
+[33mcommit b2f7a4066d8eda5a200323e6fd847c11c3c52284[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: mashuaichao <1979197551@qq.com>
+Date:   Wed Jan 6 14:13:03 2021 +0800
+
+    删除了test。txt文件
+
+[33mcommit 1aff997e05b7bf5496fb866ab1c2c8a6d7e000d1[m
+Author: mashuaichao <1979197551@qq.com>
+Date:   Wed Jan 6 14:06:09 2021 +0800
+
+    添加一个test文件
+
+[33mcommit 918ea0adc69cc28274a241362c6e65b12c72329b[m
+Author: mashuaichao <1979197551@qq.com>
+Date:   Wed Jan 6 13:47:51 2021 +0800
+
+    与文档保持了一致，改成了五句话
+
+[33mcommit 6106fc0e8e689eefc22f9b8f8c66ea60596c48bc[m
+Author: mashuaichao <1979197551@qq.com>
+Date:   Wed Jan 6 13:40:49 2021 +0800
+
+    里面有六段话了现在
+
+[33mcommit 5723f9b69367e11a62a5888283c2282cd71cea20[m
+Author: mashuaichao <1979197551@qq.com>
+Date:   Wed Jan 6 13:35:14 2021 +0800
+
+    加了一段话，变成了五段内容
+
+[33mcommit 818e48a6b7463756a2b767ca7f45140635dd56b3[m
+Author: mashuaichao <1979197551@qq.com>
+Date:   Wed Jan 6 13:24:49 2021 +0800
+
+    理解什么是工作区
+
+[33mcommit 5aa57d0fa69758af030c8b1aa0ce6668c77a7e61[m
+Author: mashuaichao <1979197551@qq.com>
+Date:   Wed Jan 6 11:15:36 2021 +0800
+
+    又加了两句话
+
+[33mcommit bb0ffa1fc30bc39a184146003412d2702a10cf92[m
+Author: mashuaichao <1979197551@qq.com>
+Date:   Wed Jan 6 11:11:33 2021 +0800
+
+    add distributed  加了两句话
+
+[33mcommit 0866d3de8c3a8a2fb70624b1beae60facd4f7e55[m
+Author: mashuaichao <1979197551@qq.com>
+Date:   Wed Jan 6 10:48:26 2021 +0800
+
+    xie le yi ge readme wen jian
